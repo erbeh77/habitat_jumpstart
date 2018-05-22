@@ -1,8 +1,8 @@
 pkg_name=national-parks
 pkg_description="A sample JavaEE Web app deployed in the Tomcat8 package"
 pkg_origin=erbeh77
-pkg_version=6.3.1
-pkg_maintainer="erbe_h@subway.com"
+pkg_version=6.3.2
+pkg_maintainer="nowhere@gmail.com"
 pkg_license=('Apache-2.0')
 pkg_deps=(core/tomcat8 core/jre8 core/mongo-tools)
 pkg_build_deps=(core/jdk8/8u131 core/maven)
